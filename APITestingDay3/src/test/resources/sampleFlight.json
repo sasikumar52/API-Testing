@@ -1,0 +1,33 @@
+{
+	"page": 1,
+	"per_page": 10,
+	"total": 10212,
+	"total_pages": 2332,
+	"data": [
+		{
+			"id": 3,
+			"flightName": "AirIndia",
+			"Country": "India",
+			"Destinations": "28",
+			"URL": "https:\\/\\/en.wikipedia.org\\/wiki\\/Air_India"
+		},
+		{
+			"id": 33,
+			"flightName": "AirIndia",
+			"Country": "India",
+			"Destinations": "30",
+			"URL": "https:\\/\\/en.wikipedia.org\\/wiki\\/Air_India"
+		},
+		{
+			"id": 49,
+			"flightName": "AirIndia",
+			"Country": "India",
+			"Destinations": "12",
+			"URL": "https:\\/\\/en.wikipedia.org\\/wiki\\/Air_India"
+		}
+	],
+	"support": {
+		"url": "https:\\omrbranch.com",
+		"text": "For Joining Automation Course, Please Contact-Velmurugan 9944152058"
+	}
+}
